@@ -1,0 +1,693 @@
+canonical_identifier: bkk:krp/KR6r0062/v1
+canonical_location: https://kanripo.org/bkk/KR6r0062/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 名僧傳抄
+  identifiers:
+    alt_id:
+    - X77n1523
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X77/X77n1523.xml
+    old_id: X77n1523
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0062_000.yaml, hash: 'sha256:176d1e8f37412aff1746ca4c55cbb4a0190df5f9782fc0ff68b6f6f924bff364'}
+  - {seq: 1, filename: KR6r0062_001.yaml, hash: 'sha256:37e1109afa7402de6badb20fc911fc316e402798817dd955c29d0658f155c8be'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0062_000.markers.yaml, hash: 'sha256:2b52cf72bd6ca46bfa663ff278a3d0dfe57fcf7f660841a2553c957b81e51121'}
+  - {seq: 1, role: markers, filename: assets/KR6r0062_001.markers.yaml, hash: 'sha256:bd4d600818f422591f5c901af73b910e17b94bda01acc10fe32b3f4b41084169'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0062_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 名僧傳抄目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0062_X_000-mulu-2
+    span:
+    - front
+    - 319
+    - 319
+  label: 名僧傳目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 14134
+  label: 名僧傳抄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-1
+    span:
+    - body
+    - 4
+    - 4
+  label: 名僧傳第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: 求那䟦陀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-3
+    span:
+    - body
+    - 1516
+    - 1516
+  label: 名僧傳第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-4
+    span:
+    - body
+    - 1521
+    - 1521
+  label: 道安
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-5
+    span:
+    - body
+    - 2143
+    - 2143
+  label: 名僧傳第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-6
+    span:
+    - body
+    - 2148
+    - 2148
+  label: 曇翼
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-7
+    span:
+    - body
+    - 2791
+    - 2791
+  label: 名僧傳第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-8
+    span:
+    - body
+    - 2796
+    - 2796
+  label: 竺法義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-9
+    span:
+    - body
+    - 3028
+    - 3028
+  label: 名僧傳第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-10
+    span:
+    - body
+    - 3033
+    - 3033
+  label: 和上諱僧行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-11
+    span:
+    - body
+    - 3258
+    - 3258
+  label: 名僧傳第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-12
+    span:
+    - body
+    - 3264
+    - 3264
+  label: 法遇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-13
+    span:
+    - body
+    - 3564
+    - 3564
+  label: 名僧傳第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-14
+    span:
+    - body
+    - 3570
+    - 3570
+  label: 道恒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-15
+    span:
+    - body
+    - 3795
+    - 3795
+  label: 名僧傳第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-16
+    span:
+    - body
+    - 3801
+    - 3801
+  label: 三乘漸解實相事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-17
+    span:
+    - body
+    - 4181
+    - 4181
+  label: 無神我事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-18
+    span:
+    - body
+    - 4653
+    - 4653
+  label: 名僧傳第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-19
+    span:
+    - body
+    - 4659
+    - 4659
+  label: 覺世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-20
+    span:
+    - body
+    - 4846
+    - 4846
+  label: 名僧傳第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-21
+    span:
+    - body
+    - 4852
+    - 4852
+  label: 曇斌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-22
+    span:
+    - body
+    - 5110
+    - 5110
+  label: 曇濟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-23
+    span:
+    - body
+    - 5403
+    - 5403
+  label: 名僧傳第十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-24
+    span:
+    - body
+    - 5409
+    - 5409
+  label: 夫禮法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-25
+    span:
+    - body
+    - 5708
+    - 5708
+  label: 名僧傳第十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-26
+    span:
+    - body
+    - 5714
+    - 5714
+  label: 佛駄䟦陀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-27
+    span:
+    - body
+    - 5874
+    - 5874
+  label: 曇摩密多
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-28
+    span:
+    - body
+    - 6090
+    - 6090
+  label: 僧伽羅多哆
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-29
+    span:
+    - body
+    - 6288
+    - 6288
+  label: 名僧傳第二十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-30
+    span:
+    - body
+    - 6294
+    - 6294
+  label: 道韶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-31
+    span:
+    - body
+    - 6700
+    - 6700
+  label: 僧印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-32
+    span:
+    - body
+    - 6913
+    - 6913
+  label: 惠欖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-33
+    span:
+    - body
+    - 7080
+    - 7080
+  label: 名僧傳第二十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-34
+    span:
+    - body
+    - 7087
+    - 7087
+  label: 納衣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-35
+    span:
+    - body
+    - 7504
+    - 7504
+  label: 惠通
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-36
+    span:
+    - body
+    - 7811
+    - 7811
+  label: 名僧傳第二十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-37
+    span:
+    - body
+    - 7818
+    - 7818
+  label: 道汪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-38
+    span:
+    - body
+    - 8098
+    - 8098
+  label: 名僧傳第二十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-39
+    span:
+    - body
+    - 8105
+    - 8105
+  label: 惠永
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-40
+    span:
+    - body
+    - 8381
+    - 8381
+  label: 惠精
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-41
+    span:
+    - body
+    - 8697
+    - 8697
+  label: 竺法純
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-42
+    span:
+    - body
+    - 8840
+    - 8840
+  label: 竺惠慶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-43
+    span:
+    - body
+    - 9078
+    - 9078
+  label: 惠果
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-44
+    span:
+    - body
+    - 9368
+    - 9368
+  label: 名僧傳第二十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-45
+    span:
+    - body
+    - 9375
+    - 9375
+  label: 道海
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-46
+    span:
+    - body
+    - 9530
+    - 9530
+  label: 道法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-47
+    span:
+    - body
+    - 9662
+    - 9662
+  label: 僧業
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-48
+    span:
+    - body
+    - 9787
+    - 9787
+  label: 名僧傳第二十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-49
+    span:
+    - body
+    - 9794
+    - 9794
+  label: 法惠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-50
+    span:
+    - body
+    - 10159
+    - 10159
+  label: 名僧傳第二十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-51
+    span:
+    - body
+    - 10166
+    - 10166
+  label: 僧表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-52
+    span:
+    - body
+    - 10368
+    - 10368
+  label: 智嚴
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-53
+    span:
+    - body
+    - 10496
+    - 10496
+  label: 寶雲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-54
+    span:
+    - body
+    - 10652
+    - 10652
+  label: 法盛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-55
+    span:
+    - body
+    - 10890
+    - 10890
+  label: 名僧傳第二十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-56
+    span:
+    - body
+    - 10897
+    - 10897
+  label: 僧供
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-57
+    span:
+    - body
+    - 11106
+    - 11106
+  label: 道矯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-58
+    span:
+    - body
+    - 11196
+    - 11196
+  label: 曇副
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-59
+    span:
+    - body
+    - 11427
+    - 11427
+  label: 名僧傳第二十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-60
+    span:
+    - body
+    - 11434
+    - 11434
+  label: 釋法祥
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-61
+    span:
+    - body
+    - 11454
+    - 11454
+  label: 後記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-62
+    span:
+    - body
+    - 11600
+    - 11600
+  label: No. 1523-A (附)名僧傳說處
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0062_X_001-mulu-63
+    span:
+    - body
+    - 13991
+    - 13991
+  label: No. 1523-B
+  type: mulu
+  level: 1
+hash: sha256:215d82f3e03a73f49f5e9580fad310dc9a703c6b9ed158b6eff224e382c5816e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
