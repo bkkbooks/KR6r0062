@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0062_000-X.yaml, hash: 'sha256:24c5dbdc9b409a87c3cbf7eac6b0c83e17eae0a1f48f0bf20b1ef83ee75c4c42'}
+  - {seq: 0, filename: KR6r0062_000-X.yaml, hash: 'sha256:c979992374511b54f09151b57ed79408a0c4c2deb8aa6b5694555fae8f74d939'}
   - {seq: 1, filename: KR6r0062_001-X.yaml, hash: 'sha256:84f19091c95681a9d7632196b81ad0a667db701c2a9e5e22df9d17dae8d0daf4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0062_000-X.markers.yaml, hash: 'sha256:39659edc4fe0021eb18a0503856168b58ce01204f68daeb62015fd971cce36b8'}
+  - {seq: 0, role: markers, filename: assets/KR6r0062_000-X.markers.yaml, hash: 'sha256:6ef341a5aaa09f740e73d7a42aa64463c739599e2d2b2cc440b1907cd2a1ec9f'}
   - {seq: 1, role: markers, filename: assets/KR6r0062_001-X.markers.yaml, hash: 'sha256:8612073da260bfcc4cdb4904d579188e9d4e06c2415e682248c7690f852e1a3f'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6r0062_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 名僧傳抄目次
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0062_X_000-mulu-2
     span:
-    - front
+    - body
     - 319
     - 319
   label: 名僧傳目錄
@@ -685,4 +685,4 @@ table_of_contents:
   label: No. 1523-B
   type: mulu
   level: 1
-hash: sha256:5e1b37517991d5b0c0fd6516215d54118e3a8aafcbc8c9a37f81301d70ee283c
+hash: sha256:2bce12df7a92308714628e15e08f0360f35e726ec8f31a6634232ddee5a4cbf2
